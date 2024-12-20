@@ -1,0 +1,21 @@
+{
+  "name": "Random Jokes with Pictures",
+  "short_name": "Jokes & Dogs",
+  "description": "A fun app to get random jokes and dog images",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#6a11cb",
+  "theme_color": "#2575fc",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
