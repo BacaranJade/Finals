@@ -97,4 +97,11 @@ img {
         max-width: 100%;
         margin: 10px 0;  
     }
+    @media (min-width: 1024px) {
+    
+}
+@media (max-width: 768px) {
+   
+}
+
 }
